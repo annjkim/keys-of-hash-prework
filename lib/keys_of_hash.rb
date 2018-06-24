@@ -8,6 +8,4 @@ class Hash
     end
     keys_arr
   end
-
-  end
 end
